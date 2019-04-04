@@ -20,9 +20,9 @@ exhibited higher correlation with human evaluations of the same texts than did t
 (using target style scores of output texts alone).
 
 Usage:
-    - View correlations between automated metrics and human scores 		  			-> display_correlation_tables()
-    - Load style distributions for output texts of examined style transfer models	-> load_style_distributions(...)
-    - Calculate STI for your own input/output text style distributions				-> calculate_direction_corrected_emd(...)
+    - View correlations between automated metrics and human scores                  -> display_correlation_tables()
+    - Load style distributions for output texts of examined style transfer models   -> load_style_distributions(...)
+    - Calculate STI for your own input/output text style distributions              -> calculate_direction_corrected_emd(...)
    
 """
 

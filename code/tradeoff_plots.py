@@ -13,8 +13,8 @@ Plots will naturally vary by dataset, especially because the tradeoff between co
 depends on the level of distinction between style words and content words of the given dataset.
 
 Usage:
-    - Load aspect evaluation scores for a given style transfer model	-> TradeoffPlotParameters(...)
-    - Plot aspect tradeoffs using the loaded scores						-> plot_aspect_tradeoffs(...) 
+    - Load aspect evaluation scores for a given style transfer model    -> TradeoffPlotParameters(...)
+    - Plot aspect tradeoffs using the loaded scores                     -> plot_aspect_tradeoffs(...)
     
 You can find examples of more detailed usage commands below.  
 

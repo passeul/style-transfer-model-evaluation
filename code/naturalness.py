@@ -16,8 +16,8 @@ We calculate percent agreement with human judgments. Both classifiers show great
 considered more natural with humans given relative scoring tasks than with those given absolute scoring tasks.
 
 Usage:
-    - View percent agreement between automated scores and human scores				-> display_agreements()
-    - Calculate naturalness scores for texts with clf, a NaturalnessClassifier		-> clf.score(...) 
+    - View percent agreement between automated scores and human scores              -> display_agreements()
+    - Calculate naturalness scores for texts with clf, a NaturalnessClassifier      -> clf.score(...)
 
 You can find examples of more detailed usage commands below.
 

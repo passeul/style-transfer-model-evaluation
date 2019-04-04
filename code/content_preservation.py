@@ -6,11 +6,11 @@ Word Mover's Distance (WMD) on texts with style masking (i.e. placeholders used 
 exhibited the highest correlation with human evaluations of the same texts.
 
 Usage:
-    - Mask style words in a set of texts prior to evaluation				-> mark_style_words(texts, mask_style=True)
-    - View correlations between automated metrics and human scores 			-> display_correlation_tables()
-    - Load WMD scores for output texts of examined style transfer models	-> load_wmd_scores(...)
-    - Train a Word2Vec model for your dataset, for use in WMD calculation	-> train_word2vec_model(...)
-    - Calculate WMD scores for your own input/output texts					-> calculate_wmd_scores(...)
+    - Mask style words in a set of texts prior to evaluation                -> mark_style_words(texts, mask_style=True)
+    - View correlations between automated metrics and human scores          -> display_correlation_tables()
+    - Load WMD scores for output texts of examined style transfer models    -> load_wmd_scores(...)
+    - Train a Word2Vec model for your dataset, for use in WMD calculation   -> train_word2vec_model(...)
+    - Calculate WMD scores for your own input/output texts                  -> calculate_wmd_scores(...)
 
 You can find examples of more detailed usage commands below.
 
